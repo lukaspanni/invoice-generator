@@ -1,0 +1,18 @@
+---
+fromname: Lukas Panni
+signature: Lukas Panni
+phone: +49 1234 56789
+fromemail: lukas@lukaspanni.de
+date: \today
+place: Östringen
+fromaddress: |
+  Test-Straße 123  
+  76684 Östringen
+
+frombank: |
+  Musterbank  
+  IBAN: DE12345678901234567890  
+  BIC: MUBADEF1XXX
+printinvoicefooter: true
+printfooteraddress: true
+ustID: DE123456789
